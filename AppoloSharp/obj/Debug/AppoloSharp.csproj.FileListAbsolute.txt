@@ -1,0 +1,9 @@
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\AppoloSharp\bin\Debug\AppoloSharp.dll
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\AppoloSharp\bin\Debug\AppoloSharp.pdb
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\AppoloSharp\obj\Debug\AppoloSharp.csprojResolveAssemblyReference.cache
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\AppoloSharp\obj\Debug\AppoloSharp.dll
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\AppoloSharp\obj\Debug\AppoloSharp.pdb
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\AppoloSharp\bin\Debug\Newtonsoft.Json.dll
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\AppoloSharp\bin\Debug\RestSharp.dll
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\AppoloSharp\bin\Debug\Newtonsoft.Json.xml
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\AppoloSharp\bin\Debug\RestSharp.xml

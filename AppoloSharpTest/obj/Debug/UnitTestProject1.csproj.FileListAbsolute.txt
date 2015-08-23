@@ -1,0 +1,14 @@
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\UnitTestProject1\bin\Debug\AppoloSharp.dll
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\UnitTestProject1\bin\Debug\nunit.framework.dll
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\UnitTestProject1\bin\Debug\RestSharp.dll
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\UnitTestProject1\bin\Debug\AppoloSharp.pdb
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\UnitTestProject1\bin\Debug\nunit.framework.xml
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\UnitTestProject1\bin\Debug\RestSharp.xml
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\pedrogabriel\documents\visual studio 2015\Projects\AppoloSharp\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
