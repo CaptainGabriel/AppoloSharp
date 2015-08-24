@@ -9,6 +9,17 @@ namespace UnitTestProject1
     public class AppoloTest
     {
         [Test]
+        public void TestGetElements()
+        {
+            Students stds = Appolo.GetElements<Students>(Elements.STUDENT);
+            Assert.True(stds.StudentArray.GetType() == typeof(Student[]));
+            Assert.True(stds.StudentArray[0].ShortName.Equals("Emídio Lopes"));
+            Assert.True(stds.StudentArray[0].AcademicEmail.Equals("4806@alunos.isel.pt"));
+            Assert.True(stds.StudentArray[0].Number == 4806);
+            Assert.True(stds.StudentArray[0].Id == 4806);
+        }
+
+        [Test]
         public void TestGetStudentByIdString()
         {
             var std = Appolo.GetElementById<Student>(Elements.STUDENT, "38209");

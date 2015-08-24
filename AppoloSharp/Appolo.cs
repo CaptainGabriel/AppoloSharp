@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using AppoloSharp.Model;
 using Newtonsoft.Json;
 using RestSharp;
 
@@ -43,7 +44,7 @@ namespace AppoloSharp
             RestClient client = new RestClient(BASE_LINK_API);
             var requestNewElement = new RestRequest(elementsPathID[element], Method.GET);
             var jsonResponse = client.Execute(requestNewElement);
-            return MakeRequest<T>(jsonResponse.Content);
+            return JsonConvert.DeserializeObject<T> (jsonResponse.Content);
         }
 
         public static T GetElementById<T>(Elements element, string id)
