@@ -7,10 +7,9 @@ using Newtonsoft.Json;
 
 namespace AppoloSharp.Model
 {
-
-    public class Students
+    public class CourseUnitSet
     {
-        [JsonProperty("students")]
-        public Student[] StudentArray { get; set; }
+        [JsonProperty("courseUnits")]
+        public CourseUnit[] CourseUnitArray { get; protected set; }
     }
 }
